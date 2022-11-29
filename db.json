@@ -24,5 +24,57 @@
             "user_name": "Peter Parker",
             "text": "You are the spiderman of this world"
         }
-    ]
+    ],
+    "books": [
+        {
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "fiction",
+          "edition": "2021",
+          "publisher": "Bloomsbury",
+          "cost": 1299,
+           "borrowed": true
+        },
+        {
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "K j Rowling",
+            "genre": "science",
+            "edition": "2020",
+            "publisher": "Hello",
+            "cost": 2255,
+             "borrowed": false
+          },
+          {
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": 1199,
+             "borrowed": false
+          },
+          {
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": 1249,
+             "borrowed": false
+          },
+          {
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "History",
+            "cost": 1099,
+             "borrowed": true
+          }
+      ]
 }
