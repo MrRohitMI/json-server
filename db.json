@@ -82,5 +82,6 @@
              "borrowed": true
           }
     ],
-    "user":[]
+    "user":[],
+    "posts":[]
 }
